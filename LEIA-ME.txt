@@ -1,0 +1,6 @@
+Boa noite professor.
+
+Tive dificuldades de posicionar as imagens conforme os jpg que o SR envio, porém, passei horas tentando e só conseguir com CSS.
+Se o senhor puder me explicar isso depois.
+
+Desde já lhe agradeço.
